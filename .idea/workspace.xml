@@ -17,8 +17,8 @@
       <file leaf-file-name="stephany_cryptodemo.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/stephany_cryptodemo.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="171">
+              <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="87" lean-forward="false" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -198,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524438136528</updated>
-      <workItem from="1524438138149" duration="15897000" />
+      <workItem from="1524438138149" duration="16037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15897000" />
+    <option name="totallyTimeSpent" value="16037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -373,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/stephany_cryptodemo.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="171">
+          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -382,8 +382,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="87" lean-forward="false" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />

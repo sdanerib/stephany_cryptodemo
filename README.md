@@ -1,6 +1,7 @@
 # StephanyCryptodemo
 Basic implementation of a crypto currency.
 Cryptodemo will allow us to perform safe transactions keeping an immutable chain state.
+[StephanyCryptodemo on Rubygems](https://rubygems.org/gems/stephany_cryptodemo)
 
 ## Installation
 
